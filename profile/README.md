@@ -1,18 +1,18 @@
 # Quantum Machine Learning research group
 
-On the one hand, our group utilizes machine learning techniques to support the development of the layers mentioned (i.e., machine learning for quantum). On the other hand, the group uses the results and benefits of all layers to provide solutions to domain experts (i.e., quantum machine learning).
+The overall goal of this group is to investigate how quantum technology might help creating near-term quantum applications (_quantum machine learning_), but also how machine learning techniques may assist with developing scalable quantum devices (_machine learning for quantum_).
 
 ## List of project repositories
 
-Notice most of the projects below are private.
+However some of the projects below are private, we encourage you to contact the author in case of interest.
 
-| Repository                                                                                             | Author     |  Project
-| :----------------------------------------------------------------------------------------------------- | :--------- | :----------- |
-| [map-quantum-circuits-to-multi-core](https://github.com/QML-Group/map-quantum-circuits-to-multi-core)  | Luise      | MSc thesis   |
-| [lowdepthflagqec](https://github.com/QML-Group/lowdepthflagqec)                                        | Dhruv      | MSc thesis   |
-| Entropy4Mapping                                                                                        | Sacha      | MSc thesis   |
-| KetGPT                                                                                                 | Boran      | MSc thesis   |
-| qbench                                                                                                 | Medina     | PhD research |
-| AME_spin                                                                                               | Matthew    | PhD research |
-| HTN_codes                                                                                              | Matthew    | PhD research |
-| ML4GST                                                                                                 | Alan       | PhD research |
+| Repository                                                                                             | Description                                                                                                                 | Author                                                  |  Project     |
+| :----------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :----------- |
+| [map-quantum-circuits-to-multi-core](https://github.com/QML-Group/map-quantum-circuits-to-multi-core)  | Quadratic Unconstrained Binary Optimization (QUBO) technique to map quantum circuits to multiple quantum cores.             | [Luise Prielinger](https://github.com/Luisenden)        | MSc thesis   |
+| [lowdepthflagqec](https://github.com/QML-Group/lowdepthflagqec)                                        | Sample simulation program for the paper: Low-Depth Flag-Style Syndrome Extraction for Small Quantum Error-Correction Codes. | [Dhruv Bhatnagar](https://github.com/dhruvbhq)          | MSc thesis   |
+| Entropy4Mapping                                                                                        |                                                                                                                             | [Sacha Szkudlarek](https://github.com/szkud)            | MSc thesis   |
+| KetGPT                                                                                                 | Generative AI for Quantum Circuits.                                                                                         | [Boran Apak](https://github.com/boranapak)              | MSc thesis   |
+| qbench                                                                                                 | A collection of Quantum Benchmarks.                                                                                         | [Medina Bandic](https://github.com/MedinaBandic)        | PhD research |
+| AME_spin                                                                                               |                                                                                                                             | [Matthew Steinberg](https://github.com/mattsteinberg13) | PhD research |
+| HTN_codes                                                                                              | A collection of python scripts to accompany the Arxiv paper: <...>.                                                         | [Matthew Steinberg](https://github.com/mattsteinberg13) | PhD research |
+| ML4GST                                                                                                 | Machine Learning for Gate Set Tomography.                                                                                   | [Alan Yu](https://github.com/kyyalan)                   | PhD research |
